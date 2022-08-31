@@ -16,7 +16,7 @@
 
 <h3 align="left">FrontEnd Languages and Frameworks:</h3>
 
-<div style="display: flex;">
+<div style="display: flex">
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
