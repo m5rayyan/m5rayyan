@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rayyan</h1>
 <h3 align="center">A computer engineer and a passionate frontend developer</h3>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=m5rayyan&label=Profile%20views&color=0e75b6&style=flat" alt="m5rayyan" /> </p> -->
+
+- 🌱 I’m currently learning **Vue**
+
+- 📫 How to reach me **rayyan5mo@gmail.com**
+
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
+</p> -->
+
+<!-- <p align="left">  </p> -->
+
+<h1 align="center">Hi 👋, I'm Mohammed Rayyan</h1>
+<h3 align="center">A computer engineer and a passionate frontend developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m5rayyan&label=Profile%20views&color=0e75b6&style=flat" alt="m5rayyan" /> </p>
 
 - 🌱 I’m currently learning **Vue**
@@ -19,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m5rayyan&show_icons=true&locale=en" alt="m5rayyan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m5rayyan&" alt="m5rayyan" /></p>
+
+
+![Anurag's xub stats](https://github-readme-stats.vercel.app/api?username=m5rayyan&show_icons=true&theme=tokyonight)
