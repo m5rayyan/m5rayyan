@@ -16,7 +16,6 @@
 
 <h3 align="left">FrontEnd Languages and Frameworks:</h3>
 
-<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -30,7 +29,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-</p>
 
 
 <h3 align="left">FrontEnd Tools:</h3>
