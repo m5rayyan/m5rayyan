@@ -75,3 +75,9 @@
 ###
 
 [![](https://visitcount.itsvg.in/api?id=m5rayyan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+###
+
+<img src="https://raw.githubusercontent.com/m5rayyan/m5rayyan/blob/output/snake.svg" alt="Snake animation" />
+
+###
