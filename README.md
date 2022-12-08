@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 <img src="icons/github.jpg" height="46" width="46" alt="github logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-<img src="icons/xd.png" height="40" width="52" alt="xd logo"  />
+<img src="icons/xd.png" height="43" width="45" alt="xd logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 
 </div>
