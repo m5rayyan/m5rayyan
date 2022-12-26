@@ -79,4 +79,4 @@
 
 ###
 
-https://www.codewars.com/users/mrayyan/badges/large
+![](https://www.codewars.com/users/mrayyan/badges/large)
